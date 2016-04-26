@@ -1,0 +1,28 @@
+name: Brandywine Creative
+favicon: null
+layout_spectrum: 0.8317405479028821
+typography_spectrum: 0.02258417592383921
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.4004613598808646
+  lightness: 0.14965117955580354
+  saturation: 0.17246478935703635
+  rhythmicContrast: 0.4018277763389051
+purpose: []
